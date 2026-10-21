@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HIABC-FDRL reproducibility package: federated actor-critic with Q-guided IABC tuning for energy-proportional multi-cloud pricing"
+version: "2.0.0"
+date-released: "2026-10-20"
+license: MIT
+authors:
+  - family-names: Arivanandhan
+    given-names: Rajesh
+  - family-names: Ramanathan
+    given-names: Kalaivani
+  - family-names: Chellamuthu
+    given-names: Senthilkumar
+doi: "10.5281/zenodo.XXXXXXX"
